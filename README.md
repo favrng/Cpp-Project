@@ -1,1 +1,1 @@
-# Cpp-Project
+C++ projects made for Basic Programming course
